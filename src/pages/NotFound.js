@@ -4,7 +4,7 @@ export default function PageNotFound() {
   return (
     <section>
       <Helmet>
-        <title>404 Page Not Found - ro.com</title>
+        <title>404 Page Not Found - dany.com</title>
       </Helmet>
       <h1>404</h1>
       <p>Page Not Found</p>
